@@ -1,7 +1,7 @@
 ## Desenvolvedora Front-End
 
 - 🎓   Formada em Técnico de Informática para Internet - Desenvolvedor Full Stack SENAI Itu/SP.
-- 🎓   Cursando 4° semestre de Análise e Desenvolvimento de Sistemas na UNIMAR - Universidade de Marília.
+- 🎓   Cursando 5° semestre de Análise e Desenvolvimento de Sistemas na UNIMAR - Universidade de Marília.
 
 <!--
 - 🔭 I’m currently working on ...
