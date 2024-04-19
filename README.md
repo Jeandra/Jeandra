@@ -1,7 +1,7 @@
 ## Desenvolvedora Front-End
 
-- 🎓   Formada em Técnico de Informática para Internet - Desenvolvedor Web - SENAI Itu/SP.
-- 🎓   Cursando 6° semestre de Análise e Desenvolvimento de Sistemas na UnimarEaD - Universidade de Marília.
+- 🎓   Formada em Técnico de Informática para Internet - Desenvolvedor Web - SENAI Itu-SP.
+- 🎓   Formada em Análise e Desenvolvimento de Sistemas na UnimarEaD - Universidade de Marília-SP.
 
 <!--
 - 🔭 I’m currently working on ...
